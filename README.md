@@ -34,22 +34,22 @@ src/
 ## Screenshots
 
 ### Home Page
-![Home Page](screenshots/HomePage.png)
+![Home Page](screenshots/HomePage.PNG)
 
 ### Property Listings
-![Property Listings](screenshots/Listings.png)
+![Property Listings](screenshots/Listings.PNG)
 
 ### Property Details
-![Property Details](screenshots/PropertyDetails.png)
+![Property Details](screenshots/PropertyDetails.PNG)
 
 ### Add Property
-![Add Property](screenshots/AddProperty.png)
+![Add Property](screenshots/AddProperty.PNG)
 
 ### User Dashboard
-![User Dashboard](screenshots/UserDashboard.png)
+![User Dashboard](screenshots/UserDashboard.PNG)
 
 ### Admin Panel
-![Admin Panel](screenshots/AdminPanel.png)
+![Admin Panel](screenshots/AdminPanel.PNG)
 
 ### Swagger API
-![Swagger API](screenshots/SwaggerUI.png)
+![Swagger API](screenshots/Swagger-ui.PNG)
