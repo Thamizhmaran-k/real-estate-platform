@@ -30,3 +30,26 @@ src/
 │   ├── java/
 │   └── resources/
 └── test/
+
+## Screenshots
+
+### Home Page
+![Home Page](screenshots/HomePage.png)
+
+### Property Listings
+![Property Listings](screenshots/Listings.png)
+
+### Property Details
+![Property Details](screenshots/PropertyDetails.png)
+
+### Add Property
+![Add Property](screenshots/AddProperty.png)
+
+### User Dashboard
+![User Dashboard](screenshots/UserDashboard.png)
+
+### Admin Panel
+![Admin Panel](screenshots/AdminPanel.png)
+
+### Swagger API
+![Swagger API](screenshots/SwaggerUI.png)
