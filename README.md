@@ -32,6 +32,66 @@ src/
 └── test/
 ```
 
+## How to Run
+
+### Prerequisites
+
+- Java
+- Maven
+- MySQL
+- Docker (optional)
+
+### Local Setup
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/Thamizhmaran-k/real-estate-platform.git
+cd real-estate-platform
+```
+
+2. Configure the MySQL database and update the application configuration with your database credentials.
+
+3. Build the project:
+
+```bash
+mvn clean install
+```
+
+4. Run the application:
+
+```bash
+mvn spring-boot:run
+```
+
+5. Open the application in your browser using the configured port.
+
+### Docker
+
+The project includes a Dockerfile for containerized deployment.
+
+Build the Docker image:
+
+```bash
+docker build -t real-estate-platform .
+```
+
+Run the container:
+
+```bash
+docker run -p 8080:8080 real-estate-platform
+```
+
+## API Documentation
+
+Swagger/OpenAPI documentation is included for exploring and testing the REST APIs.
+
+When running locally, open:
+
+```text
+http://localhost:8080/swagger-ui/index.html
+```
+
 ## Screenshots
 
 ### Home Page
