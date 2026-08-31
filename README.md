@@ -4,6 +4,12 @@ A full-stack real estate web application built with Java, Spring Boot, Spring Se
 
 The platform allows users to browse and search properties, manage property listings, upload property images, and access secure REST APIs with Swagger/OpenAPI documentation.
 
+## 🌐 Live Demo
+
+🚀 **[Open Real Estate Platform](https://real-estate-platform-j3m5.onrender.com)**
+
+*May take a few seconds to load on the free tier.*
+
 ## Features
 
 - User registration and authentication
