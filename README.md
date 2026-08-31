@@ -56,6 +56,7 @@ The platform allows users to browse and search properties, manage property listi
 - Swagger / OpenAPI
 - Git
 - GitHub
+- Render
 
 ## Project Structure
 
